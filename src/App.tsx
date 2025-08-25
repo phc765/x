@@ -111,7 +111,7 @@ const App: React.FC = () => {
         <p>
           Thiết kế bởi: Lê Thị Hà | Giáo viên Toán
           <br />
-          Đơn vị: Trường TH-THCS Chiềng Chăn – Hòa Bình
+          Đơn vị: Trường TH-THCS Chiềng Chăn – Sơn la
         </p>
       </footer>
     </div>
